@@ -1,7 +1,13 @@
 # Hi! 👋 I'm Muhammad Fazal
 
 ## 🚀 About Me
-Backend developer from Pakistan, passionate about building backend applications with modern technologies.
+Hi! I am Muhammad Fazal, a Backend Developer pursuing Software Engineering at NUST.
+
+I am passionate about backend development and database design, and I enjoy building efficient, scalable systems that solve real-world problems. Over the course of my academic and personal projects, I have developed several applications involving backend services, RESTful APIs, authentication systems, and both relational and NoSQL databases.
+
+As a Backend Developer, my technical strengths include working with technologies such as Node.js, Express.js, NestJS, MongoDB, MySQL, and PostgreSQL. I focus on designing and implementing backend architectures that are secure, reliable, and maintainable. I am particularly interested in API design, data modeling, and backend performance optimization.
+
+I aim to grow my career in backend engineering where I can contribute as a Backend Developer, building powerful server-side applications that support impactful products. I am always eager to learn, collaborate, and work on meaningful backend systems that make a difference.
 
 ## 💻 Tech Stack
 
