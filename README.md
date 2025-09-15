@@ -32,7 +32,7 @@ As a Backend Developer, I focus on designing and implementing backend architectu
 - **E-commerce platforms** and management systems
 
 ## 🎯 Current Focus
-- Advanced backend architectures
+- Advanced backend concepts
 - API design best practices
 - Database performance optimization
 - Learning cloud technologies
@@ -43,9 +43,10 @@ As a Backend Developer, I focus on designing and implementing backend architectu
 
 ## 🚀 Featured Projects
 Check out my repositories to see backend systems I've built including:
-- E-commerce backend with TypeScript & Next.js
+- E-commerce backend and frontend with TypeScript & Next.js
 - Blog website backend with authentication
 - Bank management system
+- E-commerce backend with Express.js
 - Todo application with Express.js
 
 ## 📫 Let's Connect!
