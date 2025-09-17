@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Muhammad Fazal
 
-**Backend Developer** | **Software Engineering Student at NUST** | **Pakistan** 🇵🇰
+**FUll Stack Developer** | **Software Engineering Student at NUST** | **Pakistan** 🇵🇰
 
 ## 🚀 About Me
 I am passionate about backend development and database design, building efficient, scalable systems that solve real-world problems. Through my academic and personal projects, I've developed applications involving backend services, RESTful APIs, authentication systems, and both relational and NoSQL databases.
