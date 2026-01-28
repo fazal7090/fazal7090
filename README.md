@@ -76,10 +76,9 @@ Proficient in machine learning and AI development with hands-on experience in bu
 - API design best practices
 - Database performance optimization
 - Learning cloud technologies
+- ML/AI integration in full-stack web apps (deploying models, building prediction APIs, adding AI features to products)
 
-## 📈 GitHub Stats
-![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazal7090&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fazal7090&layout=compact&theme=radical&hide_border=true)
+
 
 ## 🚀 Featured Projects
 Check out my repositories to see backend systems I've built including:
