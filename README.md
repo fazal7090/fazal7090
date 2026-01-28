@@ -3,8 +3,9 @@
 **Software Engineering Student at NUST** | **Pakistan** 🇵🇰
 
 ## 🚀 About Me
-Software Engineer with expertise in designing and delivering robust, scalable software solutions using modern technologies including JavaScript, React, Node.js, Next.js, and Express.js. Skilled in full-stack architecture with strong proficiency in database systems (PostgreSQL, MySQL, MongoDB) and Prisma ORM for type-safe data modeling. Experienced in building RESTful and GraphQL APIs, implementing secure authentication systems, and optimizing application performance .
-Proficient in machine learning and AI development with hands-on experience in building AI pipelines, data preprocessing, and feature engineering using NumPy, Pandas, and Scikit-learn. Capable of implementing end-to-end ML workflows from data collection and cleaning to model training and deployment, with a strong foundation in data structures and algorithms for efficient problem-solving and code optimization. Committed to software scalability best practices and creating intuitive user experiences through well-architected, maintainable systems that leverage both traditional software engineering and modern AI capabilities
+Software Engineer with proficiency in designing and delivering scalable software solutions using modern technologies including JavaScript, React, Node.js, Next.js, and Express.js. Skilled in full-stack architecture with strong command in database systems (PostgreSQL, MySQL, MongoDB) and Prisma ORM for type-safe data modeling. Experienced in building RESTful APIs and implementing secure authentication systems.
+Proficient in machine learning and AI development with hands-on experience in building AI pipelines, data preprocessing, and feature engineering using NumPy, Pandas, and Scikit-learn. Capable of implementing end-to-end ML workflows from data collection and cleaning to model training and deployment, with a strong foundation in data structures and algorithms for efficient problem-solving and code optimization. Committed to software scalability best practices and creating intuitive user experiences through well-architected, maintainable systems that leverage both traditional software engineering and modern AI capabilities.
+
 
 
 ## 💻 Tech Stack
@@ -57,11 +58,18 @@ Proficient in machine learning and AI development with hands-on experience in bu
 
 
 ## 🌟 What I Build
-- **RESTful APIs** and backend services
-- **Authentication & Authorization** systems
-- **Database design** and optimization
-- **Scalable server-side** applications
-- **E-commerce platforms** and management systems
+
+- **RESTful APIs and backend services** using Node.js, Express.js, and FastAPI  
+- **Authentication & authorization systems** with JWT and role-based access control (RBAC)  
+- **Database design and optimization** across SQL and NoSQL databases  
+- **Scalable server-side applications** with modular, maintainable architecture  
+- **E-commerce platforms and management systems** including product, user, order, and payment workflows  
+
+- **Machine Learning pipelines** covering data cleaning, exploratory data analysis (EDA), feature engineering, model training, and evaluation  
+- **Predictive modeling and classification** using Logistic Regression, Random Forest, and LightGBM  
+- **Model performance reporting** with accuracy, precision, recall, F1-score, and confusion matrix  
+- **Deployment-ready ML workflows** including model persistence and API integration for inference  
+
 
 ## 🎯 Current Focus
 - Advanced backend concepts
@@ -78,8 +86,9 @@ Check out my repositories to see backend systems I've built including:
 - E-commerce backend and frontend with TypeScript & Next.js
 - Blog website backend with authentication
 - Bank management system
+- Save Gaza Campaign Website with Next.js
 - E-commerce backend with Express.js
-- Todo application with Express.js
+- DelayWise — Flight Delay Prediction
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-fazal-84781a33b)
